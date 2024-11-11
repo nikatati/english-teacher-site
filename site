@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>פרסום מורה לאנגלית</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff7c0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        h1 {
+            color: #8000ff;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+        .contact {
+            background-color: #ff00a1;
+            color: white;
+            font-size: 1.2em;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ליה</h1>
+        <h2>מורה לאנגלית</h2>
+        <p>מעל ל-15 שנות ניסיון בהוראת אנגלית לכיתות א'-ו'</p>
+        <p class="highlight">זמינות לשיעורים בשעות 13:00 עד 17:00, כולל ימי שישי</p>
+        <div class="contact">
+            טלפון: 054-905-3092
+        </div>
+        <p>דוברת עברית, רוסית וגאורגית</p>
+    </div>
+</body>
+</html>
